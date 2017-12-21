@@ -19,7 +19,3 @@ https://github.com/yangtao4389/proxy_pool
 ## runoob2pdf文件夹中：
 爬取的是‘菜鸟教程’里面的内容，直接运行该runoob2pdf.py文件，很快就能生成pdf。暂时没遇到反扒
 
-
-
-## [基于微博数据用 Python 打造一颗“心”](./heart/)
-
